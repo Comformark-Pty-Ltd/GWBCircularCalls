@@ -39,17 +39,17 @@ Two example files are supplied "_CircularCalls_p_ma.csv" and "_ModuleCalls.csv"
 
 **NOTE:** These files are not "csv" format, you could edit the template to make comma separated output so they could be opened in Excel??
 
-#### _Batch03_ProcedureList.bat ##
+#### _Batch03_ProcedureList.bat
 This batch file generates a csv file with a list of **app, procedure, procedure's external app** to help you find offending circular procedure calls.
 
 "_AllProceduresFileList.csv" is an example of the output.
 
-### Additonal Functionality ###
+### Additonal Functionality
 The following two batch files were intended to help with an update of the project from Clarion 5 to Clarion 9
 
-#### _Batch04_ExportTemplatesUsedToCSV.bat ####
+#### _Batch04_ExportTemplatesUsedToCSV.bat
 This batch file generates a list of all templates used in a project.
 
-#### _Batch05_ExportWindowControlsToCSV.bat ####
+#### _Batch05_ExportWindowControlsToCSV.bat
 This batch file generates a list of window controls used in a project.
 
