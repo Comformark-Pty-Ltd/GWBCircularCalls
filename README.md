@@ -36,7 +36,7 @@ This batch file will generate a tree of DLLs with circular calls.
 Two example files are supplied "_CircularCalls_p_ma.csv" and "_ModuleCalls.csv"
 
 **NOTE:** I can't remember the details of how these files were generated for the project it was used on, or why the structures are different? (Sorry about that!)
-**NOTE:" These files are not "csv" format, I think I would probably edit the template to make the comma separated format so they could be opened in Excel??
+**NOTE:** These files are not "csv" format, I think I would probably edit the template to make the comma separated format so they could be opened in Excel??
 
 #### _Batch03_ProcedureList.bat ##
 This batch file generates a csv file with a list of aap, procedure, external app to help you find offending circular procedure calls.
