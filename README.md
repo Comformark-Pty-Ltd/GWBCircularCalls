@@ -40,7 +40,8 @@ Two example files are supplied "_CircularCalls_p_ma.csv" and "_ModuleCalls.csv"
 **NOTE:** These files are not "csv" format, you could edit the template to make comma separated output so they could be opened in Excel??
 
 #### _Batch03_ProcedureList.bat ##
-This batch file generates a csv file with a list of aap, procedure, external app to help you find offending circular procedure calls.
+This batch file generates a csv file with a list of **app, procedure, procedure's external app** to help you find offending circular procedure calls.
+
 "_AllProceduresFileList.csv" is an example of the output.
 
 ### Additonal Functionality ###
